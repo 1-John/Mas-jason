@@ -1,0 +1,273 @@
+[leader] Defining quadrants for simulation 11 : 51x51
+[leader] Miner miner4 is in the depot quadrant.
+[miner1] Gold perceived: gold(6,19)
+[miner1] All golds=[gold(6,19)], evaluation=[d(1,gold(6,19),not_committed)]
+[miner3] I've got my quadrant, changing search gold strategy.
+[miner3] All golds=[], evaluation=[]
+[miner3] New goal is find gold: quadrant
+[miner1] Gold options are [d(1,gold(6,19),not_committed)]. Next gold is gold(6,19)
+[miner2] I've got my quadrant, changing search gold strategy.
+[miner2] All golds=[], evaluation=[]
+[miner2] New goal is find gold: quadrant
+[miner1] I've got my quadrant, changing search gold strategy.
+[miner1] Handling gold(6,19) now.
+[miner1] All golds=[gold(6,19)], evaluation=[d(1,gold(6,19),not_committed)]
+[miner1] Gold options are [d(1,gold(6,19),not_committed)]. Next gold is gold(6,19)
+[MiningEnvironment] Cycle 1 finished in 1001 ms, mean is 1001.
+[miner1] Gold perceived: gold(7,19)
+[miner1] All golds=[gold(7,19),gold(6,19)], evaluation=[d(1,gold(7,19),not_committed),d(0,gold(6,19),in_my_place)]
+[miner1] Gold options are [d(1,gold(7,19),not_committed),d(0,gold(6,19),in_my_place)]. Next gold is gold(6,19)
+[MiningEnvironment] Cycle 2 finished in 1000 ms, mean is 1000.
+[miner1] Picked gold(6,19), I have 1 pieces of gold
+[miner1] All golds=[gold(7,19)], evaluation=[d(1,gold(7,19),not_committed)]
+[miner1] Gold options are [d(1,gold(7,19),not_committed)]. Next gold is gold(7,19)
+[miner1] Handling gold(7,19) now.
+[MiningEnvironment] Cycle 3 finished in 1000 ms, mean is 1000.
+[miner1] Gold perceived: gold(8,18)
+[miner1] All golds=[gold(8,18),gold(7,19)], evaluation=[d(2,gold(8,18),not_committed),d(0,gold(7,19),in_my_place)]
+[miner1] Gold options are [d(2,gold(8,18),not_committed),d(0,gold(7,19),in_my_place)]. Next gold is gold(7,19)
+[MiningEnvironment] Cycle 4 finished in 1000 ms, mean is 1000.
+[miner1] Picked gold(7,19), I have 2 pieces of gold
+[miner1] All golds=[gold(8,18)], evaluation=[d(2,gold(8,18),not_committed)]
+[dummy2] picked gold!
+[miner1] Gold options are [d(2,gold(8,18),not_committed)]. Next gold is gold(8,18)
+[miner1] Handling gold(8,18) now.
+[MiningEnvironment] Cycle 5 finished in 1000 ms, mean is 1000.
+[MiningEnvironment] Cycle 6 finished in 1000 ms, mean is 1000.
+[miner1] Picked gold(8,18), I have 2 pieces of gold
+[miner1] All golds=[], evaluation=[]
+[miner1] Going to depot to deliver 2 golds.
+[MiningEnvironment] Cycle 7 finished in 1000 ms, mean is 1000.
+[MiningEnvironment] Cycle 8 finished in 1000 ms, mean is 1000.
+[MiningEnvironment] Cycle 9 finished in 1000 ms, mean is 1000.
+[dummy1] picked gold!
+[MiningEnvironment] Cycle 10 finished in 1000 ms, mean is 1000.
+[MiningEnvironment] Cycle 11 finished in 1000 ms, mean is 1000.
+[MiningEnvironment] Cycle 12 finished in 1001 ms, mean is 1000.
+[MiningEnvironment] Cycle 13 finished in 1001 ms, mean is 1000.
+[dummy2] picked gold!
+[MiningEnvironment] Cycle 14 finished in 1000 ms, mean is 1000.
+[dummy1] picked gold!
+[dummy2] picked gold!
+[MiningEnvironment] Cycle 15 finished in 1000 ms, mean is 1000.
+[dummy1] picked gold!
+[MiningEnvironment] Cycle 16 finished in 1000 ms, mean is 1000.
+[MiningEnvironment] Cycle 17 finished in 1001 ms, mean is 1000.
+[MiningEnvironment] Cycle 18 finished in 1000 ms, mean is 1000.
+[MiningEnvironment] Cycle 19 finished in 1001 ms, mean is 1000.
+[MiningEnvironment] Cycle 20 finished in 1000 ms, mean is 1000.
+[MiningEnvironment] Cycle 21 finished in 1000 ms, mean is 1000.
+[MiningEnvironment] Cycle 22 finished in 1000 ms, mean is 1000.
+[MiningEnvironment] Cycle 23 finished in 1000 ms, mean is 1000.
+[MiningEnvironment] Cycle 24 finished in 1000 ms, mean is 1000.
+[MiningEnvironment] Cycle 25 finished in 1000 ms, mean is 1000.
+[MiningEnvironment] Cycle 26 finished in 1000 ms, mean is 1000.
+[MiningEnvironment] Cycle 27 finished in 1000 ms, mean is 1000.
+[MiningEnvironment] Cycle 28 finished in 1000 ms, mean is 1000.
+[MiningEnvironment] Cycle 29 finished in 1000 ms, mean is 1000.
+[MiningEnvironment] Cycle 30 finished in 1000 ms, mean is 1000.
+[MiningEnvironment] Cycle 31 finished in 1000 ms, mean is 1000.
+[MiningEnvironment] Cycle 32 finished in 1000 ms, mean is 1000.
+[dummy3] picked gold!
+[MiningEnvironment] Cycle 33 finished in 1000 ms, mean is 1000.
+[MiningEnvironment] Cycle 34 finished in 1000 ms, mean is 1000.
+[MiningEnvironment] Cycle 35 finished in 1000 ms, mean is 1000.
+[dummy1] picked gold!
+[MiningEnvironment] Cycle 36 finished in 1000 ms, mean is 1000.
+[dummy3] picked gold!
+[MiningEnvironment] Cycle 37 finished in 1000 ms, mean is 1000.
+[MiningEnvironment] Cycle 38 finished in 1001 ms, mean is 1000.
+[MiningEnvironment] Cycle 39 finished in 1000 ms, mean is 1000.
+[miner1] *** Start it all again!
+[miner1] All golds=[], evaluation=[]
+[miner1] Going to depot to deliver 2 golds.
+[MiningEnvironment] Cycle 40 finished in 1001 ms, mean is 1000.
+[dummy3] picked gold!
+[MiningEnvironment] Cycle 41 finished in 1000 ms, mean is 1000.
+[MiningEnvironment] Cycle 42 finished in 1000 ms, mean is 1000.
+[dummy3] picked gold!
+[MiningEnvironment] Cycle 43 finished in 1000 ms, mean is 1000.
+[MiningEnvironment] Cycle 44 finished in 1000 ms, mean is 1000.
+[dummy3] picked gold!
+[MiningEnvironment] Cycle 45 finished in 1000 ms, mean is 1000.
+[MiningEnvironment] Cycle 46 finished in 1000 ms, mean is 1000.
+[MiningEnvironment] Cycle 47 finished in 1000 ms, mean is 1000.
+[MiningEnvironment] Cycle 48 finished in 1000 ms, mean is 1000.
+[MiningEnvironment] Cycle 49 finished in 1000 ms, mean is 1000.
+[MiningEnvironment] Cycle 50 finished in 1001 ms, mean is 1000.
+[MiningEnvironment] Cycle 51 finished in 1000 ms, mean is 1000.
+[MiningEnvironment] Cycle 52 finished in 1000 ms, mean is 1000.
+[MiningEnvironment] Cycle 53 finished in 1000 ms, mean is 1000.
+[MiningEnvironment] Cycle 54 finished in 1000 ms, mean is 1000.
+[MiningEnvironment] Cycle 55 finished in 1002 ms, mean is 1000.
+[MiningEnvironment] Cycle 56 finished in 1000 ms, mean is 1000.
+[miner3] Gold perceived: gold(1,31)
+[miner3] All golds=[gold(1,31)], evaluation=[d(2,gold(1,31),not_committed)]
+[miner3] Gold options are [d(2,gold(1,31),not_committed)]. Next gold is gold(1,31)
+[miner3] Dropping around(_,_) desires and intentions to handle gold
+[miner3] Handling gold(1,31) now.
+[MiningEnvironment] Cycle 57 finished in 1000 ms, mean is 1000.
+[MiningEnvironment] Cycle 58 finished in 1000 ms, mean is 1000.
+[miner3] Gold perceived: gold(0,31)
+[miner3] All golds=[gold(0,31),gold(1,31)], evaluation=[d(2,gold(0,31),not_committed),d(1,gold(1,31),not_committed)]
+[miner3] Gold options are [d(2,gold(0,31),not_committed),d(1,gold(1,31),not_committed)]. Next gold is gold(1,31)
+[MiningEnvironment] Cycle 59 finished in 1000 ms, mean is 1000.
+[MiningEnvironment] Cycle 60 finished in 1000 ms, mean is 1000.
+[miner3] Picked gold(1,31), I have 1 pieces of gold
+[miner3] All golds=[gold(0,31)], evaluation=[d(1,gold(0,31),not_committed)]
+[miner3] Gold options are [d(1,gold(0,31),not_committed)]. Next gold is gold(0,31)
+[miner3] Handling gold(0,31) now.
+[MiningEnvironment] Cycle 61 finished in 1001 ms, mean is 1000.
+[MiningEnvironment] Cycle 62 finished in 1000 ms, mean is 1000.
+[MiningEnvironment] Cycle 63 finished in 1000 ms, mean is 1000.
+[miner3] Picked gold(0,31), I have 2 pieces of gold
+[miner3] All golds=[], evaluation=[]
+[miner3] Going to depot to deliver 2 golds.
+[MiningEnvironment] Cycle 64 finished in 1000 ms, mean is 1000.
+[MiningEnvironment] Cycle 65 finished in 1000 ms, mean is 1000.
+[miner3] Gold perceived: gold(1,34)
+[miner3] All golds=[gold(1,34)], evaluation=[d(2,gold(1,34),not_committed)]
+[miner3] Gold options are [d(2,gold(1,34),not_committed)]. Next gold is gold(1,34)
+[miner3] Handling gold(1,34) now.
+[MiningEnvironment] Cycle 66 finished in 1000 ms, mean is 1000.
+[MiningEnvironment] Cycle 67 finished in 1000 ms, mean is 1000.
+[miner3] Gold perceived: gold(1,35)
+[miner3] All golds=[gold(1,35),gold(1,34)], evaluation=[d(2,gold(1,35),not_committed),d(1,gold(1,34),not_committed)]
+[miner3] Gold options are [d(2,gold(1,35),not_committed),d(1,gold(1,34),not_committed)]. Next gold is gold(1,34)
+[MiningEnvironment] Cycle 68 finished in 1000 ms, mean is 1000.
+[WorldModel] Agent 7 carried 2 golds to depot!
+[MiningEnvironment] Cycle 69 finished in 1000 ms, mean is 1000.
+[miner3] Announcing gold(2,35) to others
+[miner3] Picked gold(1,34), I have 3 pieces of gold
+[miner3] Going to depot to deliver 3 golds.
+[miner1] All golds=[], evaluation=[]
+[miner1] New goal is find gold: quadrant
+[miner3] Announcing gold(1,35), since I am going to depot and that gold was not handled by me (although I perceived it).
+[MiningEnvironment] Cycle 70 finished in 1000 ms, mean is 1000.
+[MiningEnvironment] Cycle 71 finished in 1000 ms, mean is 1000.
+[MiningEnvironment] Cycle 72 finished in 1000 ms, mean is 1000.
+[MiningEnvironment] Cycle 73 finished in 1001 ms, mean is 1000.
+[MiningEnvironment] Cycle 74 finished in 1001 ms, mean is 1000.
+[MiningEnvironment] Cycle 75 finished in 1000 ms, mean is 1000.
+[MiningEnvironment] Cycle 76 finished in 1000 ms, mean is 1000.
+[dummy2] picked gold!
+[MiningEnvironment] Cycle 77 finished in 1000 ms, mean is 1000.
+[MiningEnvironment] Cycle 78 finished in 1000 ms, mean is 1000.
+[MiningEnvironment] Cycle 79 finished in 1000 ms, mean is 1000.
+[MiningEnvironment] Cycle 80 finished in 1000 ms, mean is 1000.
+[MiningEnvironment] Cycle 81 finished in 1000 ms, mean is 1000.
+[MiningEnvironment] Cycle 82 finished in 1000 ms, mean is 1000.
+[MiningEnvironment] Cycle 83 finished in 1000 ms, mean is 1000.
+[MiningEnvironment] Cycle 84 finished in 1000 ms, mean is 1000.
+[MiningEnvironment] Cycle 85 finished in 1001 ms, mean is 1000.
+[MiningEnvironment] Cycle 86 finished in 1000 ms, mean is 1000.
+[MiningEnvironment] Cycle 87 finished in 1000 ms, mean is 1000.
+[MiningEnvironment] Cycle 88 finished in 1001 ms, mean is 1000.
+[MiningEnvironment] Cycle 89 finished in 1001 ms, mean is 1000.
+[MiningEnvironment] Cycle 90 finished in 1000 ms, mean is 1000.
+[MiningEnvironment] Cycle 91 finished in 1000 ms, mean is 1000.
+[miner2] Gold perceived: gold(21,6)
+[miner2] All golds=[gold(21,6),gold(1,35),gold(2,35)], evaluation=[d(6,gold(21,6),not_committed),d(53,gold(1,35),not_committed),d(52,gold(2,35),not_committed)]
+[miner2] Gold options are [d(6,gold(21,6),not_committed),d(53,gold(1,35),not_committed),d(52,gold(2,35),not_committed)]. Next gold is gold(21,6)
+[miner2] Dropping around(_,_) desires and intentions to handle gold
+[miner2] Handling gold(21,6) now.
+[MiningEnvironment] Cycle 92 finished in 1001 ms, mean is 1000.
+[miner3] *** Start it all again!
+[miner3] Going to depot to deliver 3 golds.
+[MiningEnvironment] Cycle 93 finished in 1001 ms, mean is 1000.
+[MiningEnvironment] Cycle 94 finished in 1000 ms, mean is 1000.
+[MiningEnvironment] Cycle 95 finished in 1001 ms, mean is 1000.
+[MiningEnvironment] Cycle 96 finished in 1000 ms, mean is 1000.
+[miner2] Gold perceived: gold(20,5)
+[miner2] All golds=[gold(20,5),gold(21,6),gold(1,35),gold(2,35)], evaluation=[d(1,gold(20,5),not_committed),d(1,gold(21,6),not_committed),d(52,gold(1,35),not_committed),d(51,gold(2,35),not_committed)]
+[miner2] Gold options are [d(1,gold(20,5),not_committed),d(1,gold(21,6),not_committed),d(52,gold(1,35),not_committed),d(51,gold(2,35),not_committed)]. Next gold is gold(20,5)
+[miner2] Handling gold(20,5) now.
+[MiningEnvironment] Cycle 97 finished in 1001 ms, mean is 1000.
+[MiningEnvironment] Cycle 98 finished in 1000 ms, mean is 1000.
+[MiningEnvironment] Cycle 99 finished in 1001 ms, mean is 1000.
+[MiningEnvironment] Cycle 100 finished in 1000 ms, mean is 1000.
+[miner2] Picked gold(20,5), I have 1 pieces of gold
+[miner2] All golds=[gold(21,6),gold(1,35),gold(2,35)], evaluation=[d(2,gold(21,6),not_committed),d(60,gold(1,35),not_committed),d(59,gold(2,35),not_committed)]
+[miner2] Gold options are [d(2,gold(21,6),not_committed),d(60,gold(1,35),not_committed),d(59,gold(2,35),not_committed)]. Next gold is gold(21,6)
+[miner2] Handling gold(21,6) now.
+[MiningEnvironment] Cycle 101 finished in 1001 ms, mean is 1000.
+[MiningEnvironment] Cycle 102 finished in 1001 ms, mean is 1000.
+[MiningEnvironment] Cycle 103 finished in 1000 ms, mean is 1000.
+[MiningEnvironment] Cycle 104 finished in 1000 ms, mean is 1000.
+[miner2] Picked gold(21,6), I have 2 pieces of gold
+[miner2] All golds=[gold(1,35),gold(2,35)], evaluation=[d(66,gold(1,35),not_committed),d(65,gold(2,35),not_committed)]
+[miner2] Gold options are [d(66,gold(1,35),not_committed),d(65,gold(2,35),not_committed)]. Next gold is gold(2,35)
+[miner2] Handling gold(2,35) now.
+[MiningEnvironment] Cycle 105 finished in 1001 ms, mean is 1000.
+[MiningEnvironment] Cycle 106 finished in 1000 ms, mean is 1000.
+[MiningEnvironment] Cycle 107 finished in 1000 ms, mean is 1000.
+[MiningEnvironment] Cycle 108 finished in 1000 ms, mean is 1000.
+[MiningEnvironment] Cycle 109 finished in 1000 ms, mean is 1000.
+[MiningEnvironment] Cycle 110 finished in 1000 ms, mean is 1000.
+[MiningEnvironment] Cycle 111 finished in 1000 ms, mean is 1000.
+[MiningEnvironment] Cycle 112 finished in 1000 ms, mean is 1000.
+[MiningEnvironment] Cycle 113 finished in 1000 ms, mean is 1000.
+[MiningEnvironment] Cycle 114 finished in 1000 ms, mean is 1000.
+[MiningEnvironment] Cycle 115 finished in 1000 ms, mean is 1000.
+[MiningEnvironment] Cycle 116 finished in 1000 ms, mean is 1000.
+[miner1] Gold perceived: gold(12,13)
+[miner1] All golds=[gold(12,13),gold(1,35),gold(2,35)], evaluation=[d(2,gold(12,13),not_committed),d(36,gold(1,35),not_committed),d(35,gold(2,35),committed_by(miner2,at(20,10),far(43)))]
+[miner1] Gold options are [d(2,gold(12,13),not_committed),d(36,gold(1,35),not_committed),d(35,gold(2,35),committed_by(miner2,at(20,10),far(43)))]. Next gold is gold(12,13)
+[miner1] Dropping around(_,_) desires and intentions to handle gold
+[miner1] Handling gold(12,13) now.
+[MiningEnvironment] Cycle 117 finished in 1000 ms, mean is 1000.
+[miner1] Gold perceived: gold(11,15)
+[miner1] All golds=[gold(11,15),gold(12,13),gold(1,35),gold(2,35)], evaluation=[d(2,gold(11,15),not_committed),d(1,gold(12,13),not_committed),d(35,gold(1,35),not_committed),d(34,gold(2,35),committed_by(miner2,at(20,10),far(43)))]
+[miner1] Gold options are [d(2,gold(11,15),not_committed),d(1,gold(12,13),not_committed),d(35,gold(1,35),not_committed),d(34,gold(2,35),committed_by(miner2,at(20,10),far(43)))]. Next gold is gold(12,13)
+[MiningEnvironment] Cycle 118 finished in 1001 ms, mean is 1000.
+[miner1] Gold perceived: gold(12,12)
+[dummy1] in depot
+[miner1] All golds=[gold(12,12),gold(11,15),gold(12,13),gold(1,35),gold(2,35)], evaluation=[d(1,gold(12,12),not_committed),d(3,gold(11,15),not_committed),d(0,gold(12,13),in_my_place),d(36,gold(1,35),not_committed),d(35,gold(2,35),committed_by(miner2,at(20,11),far(42)))]
+[miner1] Gold options are [d(1,gold(12,12),not_committed),d(3,gold(11,15),not_committed),d(0,gold(12,13),in_my_place),d(36,gold(1,35),not_committed),d(35,gold(2,35),committed_by(miner2,at(20,11),far(42)))]. Next gold is gold(12,13)
+[MiningEnvironment] Cycle 119 finished in 1000 ms, mean is 1000.
+[WorldModel] Agent 1 carried 3 golds to depot!
+[miner1] Picked gold(12,13), I have 1 pieces of gold
+[miner1] All golds=[gold(12,12),gold(11,15),gold(1,35),gold(2,35)], evaluation=[d(1,gold(12,12),not_committed),d(3,gold(11,15),not_committed),d(40,gold(1,35),not_committed),d(39,gold(2,35),committed_by(miner2,at(20,12),far(41)))]
+[miner1] Gold options are [d(1,gold(12,12),not_committed),d(3,gold(11,15),not_committed),d(40,gold(1,35),not_committed),d(39,gold(2,35),committed_by(miner2,at(20,12),far(41)))]. Next gold is gold(12,12)
+[miner1] Handling gold(12,12) now.
+[MiningEnvironment] Cycle 120 finished in 1000 ms, mean is 1000.
+[miner1] Gold perceived: gold(13,11)
+[miner1] All golds=[gold(13,11),gold(12,12),gold(11,15),gold(1,35),gold(2,35)], evaluation=[d(2,gold(13,11),not_committed),d(0,gold(12,12),in_my_place),d(4,gold(11,15),not_committed),d(41,gold(1,35),not_committed)]
+[miner1] Gold options are [d(2,gold(13,11),not_committed),d(0,gold(12,12),in_my_place),d(4,gold(11,15),not_committed),d(41,gold(1,35),not_committed)]. Next gold is gold(12,12)
+[MiningEnvironment] Cycle 121 finished in 1000 ms, mean is 1000.
+[MiningEnvironment] Cycle 122 finished in 1000 ms, mean is 1000.
+[miner1] Picked gold(12,12), I have 2 pieces of gold
+[miner1] All golds=[gold(13,11),gold(11,15),gold(1,35),gold(2,35)], evaluation=[d(2,gold(13,11),not_committed),d(5,gold(11,15),not_committed),d(46,gold(1,35),not_committed)]
+[miner1] Gold options are [d(2,gold(13,11),not_committed),d(5,gold(11,15),not_committed),d(46,gold(1,35),not_committed)]. Next gold is gold(13,11)
+[miner1] Handling gold(13,11) now.
+[MiningEnvironment] Cycle 123 finished in 1000 ms, mean is 1000.
+[MiningEnvironment] Cycle 124 finished in 1000 ms, mean is 1000.
+[MiningEnvironment] Cycle 125 finished in 1000 ms, mean is 1000.
+[miner1] Gold perceived: gold(14,10)
+[miner1] All golds=[gold(14,10),gold(13,11),gold(11,15),gold(1,35),gold(2,35)], evaluation=[d(2,gold(14,10),not_committed),d(0,gold(13,11),in_my_place),d(8,gold(11,15),not_committed),d(49,gold(1,35),not_committed)]
+[miner1] Gold options are [d(2,gold(14,10),not_committed),d(0,gold(13,11),in_my_place),d(8,gold(11,15),not_committed),d(49,gold(1,35),not_committed)]. Next gold is gold(13,11)
+[miner1] Gold perceived: gold(14,11)
+[miner1] All golds=[gold(14,11),gold(14,10),gold(13,11),gold(11,15),gold(1,35),gold(2,35)], evaluation=[d(1,gold(14,11),not_committed),d(2,gold(14,10),not_committed),d(0,gold(13,11),in_my_place),d(8,gold(11,15),not_committed),d(49,gold(1,35),not_committed)]
+[miner1] Gold options are [d(1,gold(14,11),not_committed),d(2,gold(14,10),not_committed),d(0,gold(13,11),in_my_place),d(8,gold(11,15),not_committed),d(49,gold(1,35),not_committed)]. Next gold is gold(13,11)
+[miner1] Picked gold(13,11), I have 2 pieces of gold
+[miner1] All golds=[gold(14,11),gold(14,10),gold(11,15),gold(1,35),gold(2,35)], evaluation=[d(1,gold(14,11),not_committed),d(2,gold(14,10),not_committed),d(8,gold(11,15),not_committed),d(49,gold(1,35),not_committed)]
+[miner1] Gold options are [d(1,gold(14,11),not_committed),d(2,gold(14,10),not_committed),d(8,gold(11,15),not_committed),d(49,gold(1,35),not_committed)]. Next gold is gold(14,11)
+[miner1] Handling gold(14,11) now.
+[MiningEnvironment] Cycle 126 finished in 1000 ms, mean is 1000.
+[MiningEnvironment] Cycle 127 finished in 1000 ms, mean is 1000.
+[miner1] Gold perceived: gold(15,11)
+[miner1] All golds=[gold(15,11),gold(14,11),gold(14,10),gold(11,15),gold(1,35),gold(2,35)], evaluation=[d(1,gold(15,11),not_committed),d(0,gold(14,11),in_my_place),d(1,gold(14,10),not_committed),d(9,gold(11,15),not_committed),d(50,gold(1,35),not_committed)]
+[miner1] Gold options are [d(1,gold(15,11),not_committed),d(0,gold(14,11),in_my_place),d(1,gold(14,10),not_committed),d(9,gold(11,15),not_committed),d(50,gold(1,35),not_committed)]. Next gold is gold(14,11)
+[MiningEnvironment] Cycle 128 finished in 1001 ms, mean is 1000.
+[miner1] Announcing gold(13,11) to others
+[miner1] Picked gold(14,11), I have 3 pieces of gold
+[miner1] Going to depot to deliver 3 golds.
+[miner1] Announcing gold(15,11), since I am going to depot and that gold was not handled by me (although I perceived it).
+[miner1] Announcing gold(14,10), since I am going to depot and that gold was not handled by me (although I perceived it).
+[miner1] Announcing gold(11,15), since I am going to depot and that gold was not handled by me (although I perceived it).
+[MiningEnvironment] Cycle 129 finished in 1000 ms, mean is 1000.
+[MiningEnvironment] Cycle 130 finished in 1000 ms, mean is 1000.
+[MiningEnvironment] Cycle 131 finished in 1001 ms, mean is 1000.
+[MiningEnvironment] Cycle 132 finished in 1001 ms, mean is 1000.
+[MiningEnvironment] Cycle 133 finished in 1000 ms, mean is 1000.
+[MiningEnvironment] Cycle 134 finished in 1000 ms, mean is 1000.
